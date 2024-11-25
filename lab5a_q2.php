@@ -8,6 +8,7 @@
         }
     </style>
 </head>
+
 <body>
     <?php
         $students = [
@@ -49,3 +50,4 @@
     </table>
 </body>
 </html>
+
